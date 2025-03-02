@@ -2,7 +2,7 @@ A fully functional GearScore addon with correct TBC values for the Onyxia TBC re
 
 
 
-All credits go to **xarthasskrillexx & Mirrikat45**. I've only changed one line in the code to make the add-on compatible with the 3.3.5 client.
+All credits go to **xarthasskrillexx & Mirrikat45**. I've only changed one line in the code to make it compatible with the 3.3.5 client.
 
 (rename the folder to "GearscoreLite" in Interface/Addons)
 
