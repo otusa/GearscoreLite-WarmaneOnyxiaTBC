@@ -1,4 +1,4 @@
-A fully functional GearScore addon with correct TBC values modified to work on Onyxia TBC realm (Warmane).
+A fully functional GearScore addon with correct TBC values, modified to work on Onyxia TBC realm (Warmane).
 Original made by **xarthasskrillexx & Mirrikat45**. 
 
 (rename the folder to "GearscoreLite" in Interface/Addons)
